@@ -1,4 +1,13 @@
 # ether-flow
+![LOGO](https://i.ibb.co/GfTWXTwd/Whats-App-Image-2025-11-18-at-13-13-56-a9632f94.jpg)
+
+
+### dependent repositories
+- https://github.com/TheGoodUser/supply-sync-app
+- https://github.com/TheGoodUser/supply-sync-frontend
+
+<br>
+<br>
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-ISC-green)
